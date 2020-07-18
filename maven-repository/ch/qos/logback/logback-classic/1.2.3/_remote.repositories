@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 20 13:05:11 CST 2020
+logback-classic-1.2.3.pom>alimaven=
+logback-classic-1.2.3.pom>central=
+logback-classic-1.2.3-sources.jar>alimaven=
+logback-classic-1.2.3-javadoc.jar>alimaven=
+logback-classic-1.2.3.jar>central=
+logback-classic-1.2.3.jar>alimaven=

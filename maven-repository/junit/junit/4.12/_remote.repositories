@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 20 13:03:20 CST 2020
+junit-4.12.jar>alimaven=
+junit-4.12.pom>alimaven=
+junit-4.12-sources.jar>alimaven=
+junit-4.12.jar>central=
+junit-4.12-javadoc.jar>alimaven=
+junit-4.12.pom>central=

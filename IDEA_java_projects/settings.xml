@@ -1,0 +1,25 @@
+<settings>
+  <localRepository>E:\IDEA_java_projects\LearnLabs\maven-repository</localRepository>
+  <pluginGroups>
+    <pluginGroup>org.sonatype.plugins</pluginGroup>
+  </pluginGroups>
+
+ <servers>
+    <server>
+      <id>nexus</id>
+      <username>develop</username>
+      <password>develop</password>
+    </server>
+  </servers>
+
+<mirrors>
+    <mirror>
+    <id>alimaven</id>
+    <name>aliyun maven</name>
+    <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+    <mirrorOf>central</mirrorOf>       
+</mirror>
+
+</mirrors>
+</settings>
+
